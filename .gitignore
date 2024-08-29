@@ -1,0 +1,4 @@
+.venv/
+myvenv/
+
+#Slash tells python to ignore all subfolders within myvenv
