@@ -12,3 +12,5 @@ plt.show()
     #mac source myvenv/bin/activate
 # Step 3 Install 3rd party library
     #pip3 install matplotlib
+print("Hello there!")
+      
